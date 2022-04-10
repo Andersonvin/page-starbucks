@@ -1,3 +1,3 @@
 # Estudo de HTML e CSS
 
-Criando uma pagina do starbucks para efeitos de estudo
+Landing page do starbucks criada para efeitos de estudo
